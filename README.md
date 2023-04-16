@@ -1,6 +1,6 @@
 # MinorWebserver
 
-一个linux下的Modern C++实现的简易webserver，经压测可实现上万并发。
+一个linux下的Modern C++实现的高性能、轻量级webserver，经压测可实现上万并发。
 
 # 特点
 
